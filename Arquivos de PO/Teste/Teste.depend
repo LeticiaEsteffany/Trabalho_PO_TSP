@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623975341 source:c:\users\victo\onedrive\documentos\ufac\2021.1 - pesquisa operacional\teste\teste.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+	<limits.h>
+	<time.h>
+	<iostream>
+
